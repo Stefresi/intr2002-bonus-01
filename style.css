@@ -1,16 +1,17 @@
 body {
-    font-family: "Georgia";
+    background-color: #f1d3bd; /* Sand color */
 }
 
-.btn-primary
-{
-    background-color: rgb(255, 0, 0);
-    border-color:transparent;
-    color:rgb(255, 255, 255);
+canvas {
+    background-color: #f9ecff; /* Baby blue color */
 }
 
-#menu .active
-{
-    background-color: rgb(255, 0, 0) !important;
-    color:rgb(255, 255, 255) !important;
+h1, h2, h3, h5 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
 }
